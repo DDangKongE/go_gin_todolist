@@ -1,1 +1,3 @@
-# go_gin_board
+# go_gin_Todolist
+
+Gin Framework를 사용한 간단한 Todolist API
